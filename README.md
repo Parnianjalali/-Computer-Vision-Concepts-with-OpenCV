@@ -20,8 +20,15 @@ The repository is organized into multiple parts. Each part covers a set of conce
 - Brightness and contrast (linear correction, gamma correction)  
 - Histograms of pixel intensities  
 
-### 🟦 Part 2 – (Coming Soon)  
-*(to be filled later)*  
+### 🟦 Part 2 – Interactive Drawing and Real-Time Video
+- Mouse events and interactive drawing (circles, rectangles, freehand brush)  
+- Undo functionality and live previews for drawing  
+- Changing colors with keyboard input  
+- Trackbars for interactive parameter adjustment (blending, color channels)  
+- Capturing live video from webcam  
+- Saving webcam video to a file  
+- Screen capture and capturing a region of the screen  
+
 
 ### 🟩 Part 3 – (Coming Soon)  
 *(to be filled later)*  
