@@ -30,8 +30,16 @@ The repository is organized into multiple parts. Each part covers a set of conce
 - Screen capture and capturing a region of the screen  
 
 
-### 🟩 Part 3 – (Coming Soon)  
-*(to be filled later)*  
+### 🟩 Part 3 – Thresholding, Morphology, and Object Detection  
+- Simple thresholding (binary, binary_inv, trunc, tozero, tozero_inv)  
+- Adaptive thresholding (mean and Gaussian)  
+- Otsu’s thresholding  
+- Morphological operations (dilate, erode, opening, closing)  
+- Removing lines and artifacts using structuring elements  
+- Connected component analysis (counting objects)  
+- Contour detection and analysis (area, center, bounding boxes)  
+- Detecting letters, words, and coins in images
+
 
 ### 🟨 Part 4 – (Coming Soon)  
 *(to be filled later)*  
