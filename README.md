@@ -41,8 +41,15 @@ The repository is organized into multiple parts. Each part covers a set of conce
 - Detecting letters, words, and coins in images
 
 
-### 🟨 Part 4 – (Coming Soon)  
-*(to be filled later)*  
+### 🟨 Part 4 – Color Detection, Tracking, and Image Enhancement
+- HSV color space visualization
+- Color masking to isolate specific colors
+- Tracking colored objects in images and videos
+- Green screen removal and background replacement
+- Histogram equalization and CLAHE for contrast enhancement
+- Noise removal using uniform, Gaussian, and median blurring
+- Image sharpening with custom kernels
+- Gradient extraction using custom and Sobel filters
 
 ### 🟧 Part 5 – (Coming Soon)  
 *(to be filled later)*  
